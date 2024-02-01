@@ -16,7 +16,7 @@
 		"gray": "#97989d"
 	},
 	"wallpaper": {
-		"url": "assets/default-wallpaper.svg",
+		"url": "assets/Braun-07.png",
 		"easing": "ease-in-out",
 		"fadeIn": true,
 		"blur": false
